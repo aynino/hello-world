@@ -43,7 +43,7 @@ int main() {
 	Student s1;
 	s1.display();
 	Student s2("Quang");
-	s2.display();
+	s2.display();dd
 	Student s3('m');
 	s3.display();
 	Student s4("Thu", 'f');
